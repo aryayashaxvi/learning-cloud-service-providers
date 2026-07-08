@@ -1,0 +1,29 @@
+{
+  "name": "learning-cloud-service-providers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryayashaxvi/learning-cloud-service-providers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aryayashaxvi/learning-cloud-service-providers/issues"
+  },
+  "homepage": "https://github.com/aryayashaxvi/learning-cloud-service-providers#readme",
+  "dependencies": {
+    "@imagekit/nodejs": "^7.9.1",
+    "express": "^5.2.1",
+    "imagekit": "^6.0.0",
+    "mongoose": "^9.7.4",
+    "multer": "^2.2.0",
+    "nodemon": "^3.1.14"
+  }
+}
